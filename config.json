@@ -1,0 +1,8 @@
+{
+    "streamPeriod": 0,
+    "devicePoll": 43200000,
+    "deltaPercent": 0.5,
+    "url": "mqtt://test.mosquitto.org",
+    "topic": "agt/test",
+    "clientId": "AGT_1234"
+}

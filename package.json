@@ -1,0 +1,18 @@
+{
+  "name": "@agilatech/lynxari-mqtt-device",
+  "version": "0.8.0",
+  "description": "MQTT virtual device driver for use in the Agilatech Lynxari system",
+  "main": "mqtt-scout.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agilatech/lynxari-mqtt-device.git"
+  },
+  "keywords": [
+    "mqtt"
+  ],
+  "author": "Agilatech <scott@agilatech.com> (http://agilatech.com)",
+  "license": "MIT",
+  "dependencies": {
+    "async-mqtt": "*"
+  }
+}
